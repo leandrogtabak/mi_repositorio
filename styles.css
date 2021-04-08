@@ -1,0 +1,10 @@
+.carru{
+  width:20vw;
+  padding: 40px 0 30px 0;
+  display: flex;
+  justify-content: center; 
+  
+}
+.carru img {
+    height: 100%; 
+}
